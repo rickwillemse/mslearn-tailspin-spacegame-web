@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/rwillemse/mslearn-tailspin-spacegame-web/_apis/build/status/rickwillemse.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/rwillemse/mslearn-tailspin-spacegame-web/_build/latest?definitionId=2&branchName=master)[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=space-game-web-Test&metric=alert_status)](https://sonarcloud.io/dashboard?id=space-game-web-Test)
 
 # Contributing
 
